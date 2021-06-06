@@ -1,0 +1,3 @@
+[submodule "bugBounty/amass"]
+	path = bugBounty/amass
+	url = https://github.com/owasp/amass
