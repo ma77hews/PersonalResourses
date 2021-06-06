@@ -37,3 +37,6 @@
 [submodule "bugBounty/dirsearch"]
 	path = bugBounty/dirsearch
 	url = https://github.com/maurosoria/dirsearch
+[submodule "bugBounty/arjun"]
+	path = bugBounty/arjun
+	url = https://github.com/s0md3v/arjun
