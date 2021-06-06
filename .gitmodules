@@ -1,3 +1,39 @@
 [submodule "bugBounty/amass"]
 	path = bugBounty/amass
 	url = https://github.com/owasp/amass
+[submodule "bugBounty/assetfinder"]
+	path = bugBounty/assetfinder
+	url = https://github.com/tomnomnom/assetfinder
+[submodule "bugBounty/subfinder"]
+	path = bugBounty/subfinder
+	url = https://github.com/projectdiscovery/subfinder
+[submodule "bugBounty/hakrevdns"]
+	path = bugBounty/hakrevdns
+	url = https://github.com/hakluke/hakrevdns
+[submodule "bugBounty/shuffledns"]
+	path = bugBounty/shuffledns
+	url = https://github.com/projectdiscovery/shuffledns
+[submodule "bugBounty/massdns"]
+	path = bugBounty/massdns
+	url = https://github.com/blechschmidt/massdns
+[submodule "bugBounty/httprobe"]
+	path = bugBounty/httprobe
+	url = https://github.com/tomnomnom/httprobe
+[submodule "bugBounty/httpx"]
+	path = bugBounty/httpx
+	url = https://github.com/projectdiscovery/httpx
+[submodule "bugBounty/eyewitness"]
+	path = bugBounty/eyewitness
+	url = https://github.com/fortynorthsecurity/eyewitness
+[submodule "bugBounty/aquatone"]
+	path = bugBounty/aquatone
+	url = https://github.com/michenriksen/aquatone
+[submodule "bugBounty/masscan"]
+	path = bugBounty/masscan
+	url = https://github.com/robertdavidgraham/masscan
+[submodule "bugBounty/ffuf"]
+	path = bugBounty/ffuf
+	url = https://github.com/ffuf/ffuf
+[submodule "bugBounty/dirsearch"]
+	path = bugBounty/dirsearch
+	url = https://github.com/maurosoria/dirsearch
