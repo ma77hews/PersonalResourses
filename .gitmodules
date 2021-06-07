@@ -40,3 +40,12 @@
 [submodule "bugBounty/arjun"]
 	path = bugBounty/arjun
 	url = https://github.com/s0md3v/arjun
+[submodule "osint/Linkedint"]
+	path = osint/Linkedint
+	url = https://github.com/vysecurity/Linkedint
+[submodule "bugBounty/can-i-take-over-xyz"]
+	path = bugBounty/can-i-take-over-xyz
+	url = https://github.com/edoverflow/can-i-take-over-xyz
+[submodule "bugBounty/subzy"]
+	path = bugBounty/subzy
+	url = https://github.com/lukasikic/subzy
