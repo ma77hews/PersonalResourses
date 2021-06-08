@@ -49,3 +49,30 @@
 [submodule "bugBounty/subzy"]
 	path = bugBounty/subzy
 	url = https://github.com/lukasikic/subzy
+[submodule "seclists"]
+	path = seclists
+	url = https://github.com/danielmiessler/seclists
+[submodule "bugBounty/prips"]
+	path = bugBounty/prips
+	url = https://gitlab.com/prips/prips.git
+[submodule "bugBounty/metabigor"]
+	path = bugBounty/metabigor
+	url = https://github.com/j3ssie/metabigor
+[submodule "bugBounty/spyse.py"]
+	path = bugBounty/spyse.py
+	url = https://github.com/zeropwn/spyse.py.git
+[submodule "bugBounty/Findomain"]
+	path = bugBounty/Findomain
+	url = https://github.com/Findomain/Findomain
+[submodule "bugBounty/byp4xx"]
+	path = bugBounty/byp4xx
+	url = https://github.com/lobuhi/byp4xx.git
+[submodule "bugBounty/virtual-host-discovery"]
+	path = bugBounty/virtual-host-discovery
+	url = https://github.com/jobertabma/virtual-host-discovery.git
+[submodule "bugBounty/lazyrecon"]
+	path = bugBounty/lazyrecon
+	url = https://github.com/nahamsec/lazyrecon.git
+[submodule "bugBounty/bypass-403"]
+	path = bugBounty/bypass-403
+	url = https://github.com/iamj0ker/bypass-403.git
