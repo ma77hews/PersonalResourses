@@ -76,3 +76,6 @@
 [submodule "bugBounty/bypass-403"]
 	path = bugBounty/bypass-403
 	url = https://github.com/iamj0ker/bypass-403.git
+[submodule "osint/iKy"]
+	path = osint/iKy
+	url = https://github.com/kennbroorg/iKy
