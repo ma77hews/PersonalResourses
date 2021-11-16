@@ -79,3 +79,12 @@
 [submodule "osint/iKy"]
 	path = osint/iKy
 	url = https://github.com/kennbroorg/iKy
+[submodule "osint/snoop"]
+	path = osint/snoop
+	url = https://github.com/snooppr/snoop.git
+[submodule "bugBounty/reversedns"]
+	path = bugBounty/reversedns
+	url = https://github.com/shackspace/reversedns.git
+[submodule "bugBounty/recontools"]
+	path = bugBounty/recontools
+	url = https://github.com/dcsync/recontools.git
