@@ -88,3 +88,15 @@
 [submodule "bugBounty/recontools"]
 	path = bugBounty/recontools
 	url = https://github.com/dcsync/recontools.git
+[submodule "linuxprivesc/LinEnum"]
+	path = linuxprivesc/LinEnum
+	url = https://github.com/rebootuser/LinEnum
+[submodule "linuxprivesc/linux-exploit-suggester"]
+	path = linuxprivesc/linux-exploit-suggester
+	url = https://github.com/mzet-/linux-exploit-suggester
+[submodule "linuxprivesc/linux-smart-enumeration"]
+	path = linuxprivesc/linux-smart-enumeration
+	url = https://github.com/diego-treitos/linux-smart-enumeration
+[submodule "linuxprivesc/linuxprivchecker"]
+	path = linuxprivesc/linuxprivchecker
+	url = https://github.com/linted/linuxprivchecker
